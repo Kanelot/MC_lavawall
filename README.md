@@ -4,9 +4,6 @@ MC Plugin for Lava Wall minigame
 # Summary
 This is an old MineCraft Bukkit plugin I developed for playing a battleship-style 3V3 game on a multiplayer server. The rules of this game are inspired by a RoosterTeeth Lets Play where they came up with the concept - I have modified it to automate it for servers, and added new features (like an interactive display) and some additional game balancing. This accompanies a custom map I made, which is necessary for playing this game. The game logic is tied closely with the materials and architecture of the arena I made, so I highly recommend you use that map. You can download a copy here: https://mega.nz/file/o181yS4L#IR7k9AulfDk52VO-fc_-5elOpyus9MNJkBuOYzGIlTR
 
-# Summary
-This is an old MineCraft Bukkit plugin I developed for playing a multiplayer 3V3 game on a multiplayer server. This accompanies a custom map I made, which is necessary for playing this game. The game logic is tied closely with the materials and architecture of the arena I made, so I highly recommend you use that map. You can download a copy here: https://mega.nz/file/o181yS4L#IR7k9AulfDk52VO-fc_-5elOpyus9MNJkBuOYzGIlTR
-
 # Rules
 Lava Wall is a 3V3 multiplayer game in which two teams are separated by a wall of lava, preventing the teams from seeing each other. Each team is equipped with fireball launchers and tries to use them to burn down a wool tower the other team has strategically placed on their side of the lava wall. Essentially, it’s a team-based free-for-all game of Battleship.
 
